@@ -1,0 +1,17 @@
+{
+    "name": "atakan/php-cli-app-example",
+    "autoload": {
+        "psr-4": {
+            "PhpCliAppExample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Atakan Demircioğlu",
+            "email": "31544037+atakde@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^6.2"
+    }
+}
